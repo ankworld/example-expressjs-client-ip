@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b45d3c5a-16fb-48ac-8bd0-bc80ca03f902" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kCvgfb7b74GRr36SgKgA5eygf2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.14.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Projects/git.g-meeting.in.th" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b45d3c5a-16fb-48ac-8bd0-bc80ca03f902" name="Default Changelist" comment="" />
+      <created>1605217500278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605217500278</updated>
+      <workItem from="1605217501291" duration="1698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1061" y="477" width="428" height="520" key="FileChooserDialogImpl" timestamp="1605219018809">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1061" y="477" width="428" height="520" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1605219018809" />
+    <state x="1113" y="635" width="402" height="280" key="Github.ShareDialog" timestamp="1605219005897">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1113" y="635" width="402" height="280" key="Github.ShareDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1605219005897" />
+    <state width="2537" height="394" key="GridCell.Tab.0.bottom" timestamp="1605218932234">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2537" height="394" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1605218932234" />
+    <state width="2537" height="394" key="GridCell.Tab.0.center" timestamp="1605218932234">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2537" height="394" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1605218932234" />
+    <state width="2537" height="394" key="GridCell.Tab.0.left" timestamp="1605218932234">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2537" height="394" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1605218932234" />
+    <state width="2537" height="394" key="GridCell.Tab.0.right" timestamp="1605218932234">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="2537" height="394" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1605218932234" />
+    <state x="1084" y="645" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605219059065">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1084" y="645" width="381" height="183" key="git4idea.remote.GitConfigureRemotesDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1605219059065" />
+  </component>
+</project>
